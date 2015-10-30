@@ -1,0 +1,8 @@
+packages
+*suo
+bin
+obj
+build
+binaries
+.hgignore
+.hg
