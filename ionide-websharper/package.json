@@ -1,7 +1,7 @@
 {
   "name": "ionide-websharper",
   "main": "./ionide-websharper",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "WebSharper for the Ionide plugin suite.",
   "activationCommands": {
     "atom-workspace": ["sitelet:run", "sitelet:stop"]
