@@ -1,5 +1,5 @@
 # __ionide-websharper__
-This package implements a plugin for [Atom](https://atom.io) that you can use alongside with [Ionide](https://github.com/ionide/) to run [WebSharper](http://websharper.com) sitelets conveniently. It depends only on [ionide-fsharp](https://github.com/ionide/ionide/ionide-fsharp), which provides syntax highlighting and code assistance features for F# projects.
+This package implements a plugin for [Atom](https://atom.io) that you can use alongside with [Ionide](http://ionide.io) to run [WebSharper](http://websharper.com) sitelets conveniently. It depends only on [ionide-fsharp](https://github.com/ionide/ionide-fsharp), which provides syntax highlighting and code assistance features for F# projects.
 
 ## Features
 * Compile and run client-server WebSharper applications
@@ -11,7 +11,7 @@ It is really easy to get started with __ionide-websharper__, you just need to fo
 1. Open up a WebSharper project that contains a [sitelet](http://websharper.com/docs/sitelets)
 
     This can be an existing project created with, for example, Visual Studio or you can use [ionide-yeoman](https://github.com/ionide/ionide-yeoman/) to generate one directly in Atom.
-    
+
 2. Press `Ctrl` + `Shift` + `P` and start typing "Sitelet" (without the quotes)
 3. Select the command `sitelet:run` and hit `Enter`
 
