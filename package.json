@@ -1,10 +1,13 @@
 {
   "name": "ionide-websharper",
   "main": "./ionide-websharper",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "WebSharper for the Ionide plugin suite.",
   "activationCommands": {
-    "atom-workspace": ["sitelet:run", "sitelet:stop"]
+    "atom-workspace": [
+      "sitelet:run",
+      "sitelet:stop"
+    ]
   },
   "repository": "https://github.com/intellifactory/ionide-websharper",
   "license": "Apache 2.0",
@@ -12,6 +15,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-      "ionide-fsharp": ">=1.3.3"
+    "ionide-fsharp": ">=1.3.3"
   }
 }
